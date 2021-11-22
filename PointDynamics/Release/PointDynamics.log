@@ -1,3 +1,0 @@
-﻿Engine3Dengine.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::Color const sf::Color::White" (?White@Color@sf@@2V12@B).
-Engine3DtoRander.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
-D:\Code\Cpp projects\V2\PointDynamics\Release\PointDynamics.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
